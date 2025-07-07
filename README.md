@@ -1,4 +1,4 @@
-# Garbage Classification using EfficientNetV2B2 (Week 2 Update 🚀)
+# Garbage Classification using EfficientNetV2B2  🚀
 
 This project is a part of the **Shell-Edunet Skills4Future AICTE Internship**, focused on Green Skills using AI technologies. We classify garbage images into 6 categories using a deep learning model trained with TensorFlow and EfficientNetV2B2.
 
@@ -120,4 +120,5 @@ LinkedIn: Tharun’s LinkedIn
 🏁 Milestone
 ✅ Week 1: Dataset processing, baseline model
 ✅ Week 2: Accuracy improvement (to 96.75%), full evaluation, README update
+✅ Week 3: Model finalized, Gradio app created for live garbage image classification, confusion matrix and classification report generated, project files prepared for submission and GitHub upload.
 
